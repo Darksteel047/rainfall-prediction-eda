@@ -1,13 +1,13 @@
-## 🌧️ Rainfall Prediction EDA — Guwahati Daily Weather (1972 – 2025)
+## 🌧️ Rainfall Prediction EDA — Guwahati Daily Weather (1973 – 2025)
 
-This project performs an in-depth Exploratory Data Analysis (EDA) on long-term daily weather data for Guwahati, Assam (India), spanning January 1972 – February 2025.
+This project performs an in-depth Exploratory Data Analysis (EDA) on long-term daily weather data for Guwahati, Assam (India), spanning January 1973 – February 2025.
 The goal is to explore climatic patterns, visualize correlations, and identify the key features that influence rainfall prediction in the region.
 
 ---
 
 ## 🗺️ Project Overview
 
-- Dataset compiled from multiple annual weather CSV files (1972 – 2025)
+- Dataset compiled from multiple annual weather CSV files (1973 – 2025)
 - Contains 19,000 + daily entries with 30 + weather attributes
 - Region: Guwahati (26.14° N, 91.74° E), Northeast India
 - Focus: Relationship between temperature, humidity, pressure, cloud cover & rainfall
@@ -20,7 +20,7 @@ The goal is to explore climatic patterns, visualize correlations, and identify t
 📍 Source: Guwahati Daily Weather Data (1972–2025) — Kaggle
 
 🗂️ Type: Raw merged CSV (unprocessed)
-🕒 Coverage: 1972-01-01 → 2025-02-01
+🕒 Coverage: 1973-01-01 → 2025-02-01
 📍 Location: Guwahati, Assam (India)
 
 A cleaned subset of this dataset was used for the analysis in this notebook.
@@ -79,6 +79,8 @@ Identified 5 core predictive features:
 <p align="center">
   <img src="images/heatmap.png" alt="Ratings Distribution" width="500">
   </p>
+
+---
 
 ## 🧩 Future scopes
 
