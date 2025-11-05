@@ -66,18 +66,19 @@ Identified 5 core predictive features:
 ## 📊 Visualizations
 
 - Below are sample outputs from the EDA:
-
-Plot	Description
-
-	Rainfall distribution (right-skewed)
-
-	Monthly rainfall variation
-
-	Positive correlation
-
-	Feature correlations with rainfall
-
-(These images should be stored in /images/ folder in your repo.)
+  
+<p align="center">
+  <img src="images/rainfall_distribution.png" alt="Ratings Distribution" width="500">
+  </p>
+<p align="center">
+  <img src="images/Monthly rainfall variation.png" alt="Ratings Distribution" width="500">
+  </p>
+<p align="center">
+  <img src="images/output.png" alt="Ratings Distribution" width="500">
+  </p>
+<p align="center">
+  <img src="images/heatmap.png" alt="Ratings Distribution" width="500">
+  </p>
 
 ## 🧩 Future scopes
 
